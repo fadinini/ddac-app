@@ -11,7 +11,7 @@ library(tidyverse)
 library(DT)
 library(data.table)
 library(shinymanager)
-library(data.table)
+
 
 
 # define some credentials
